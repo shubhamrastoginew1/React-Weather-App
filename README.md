@@ -8,7 +8,7 @@ Download the repository
 Open terminal and Run the following commands.
 
 ### npm i
-### `npm start
+### npm start
 
 # Deployed On:-
 ### https://react-weather-app-eight-zeta.vercel.app/
