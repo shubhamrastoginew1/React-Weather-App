@@ -10,3 +10,5 @@ Open terminal and Run the following commands.
 ### npm i
 ### `npm start`
 
+# Deployed On:-
+### https://react-weather-app-eight-zeta.vercel.app/
